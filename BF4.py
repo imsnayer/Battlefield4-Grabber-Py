@@ -1,4 +1,4 @@
-#usr/bin/pythonx	
+#usr/bin/python
 
 import urllib2, re
 
